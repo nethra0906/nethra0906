@@ -7,10 +7,10 @@
 🎨 Enthusiastic about Graphic Design & UI/UX & Guitar
 
 ## Languages & Technologies 
-**Languages:** Python, Java, C++, C, JavaScript, SQL, HTML & CSS
-**Fields:** Data Analytics, Graphic Design, Data Science, Machine Learning, UI/UX
-**Frameworks / Tools:** React.js, Power BI, Git, Figma, MySQL
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Languages:** Python, Java, C++, C, JavaScript, SQL, HTML & CSS
+- **Fields:** Data Analytics, Graphic Design, Data Science, Machine Learning, UI/UX
+- **Frameworks / Tools:** React.js, Power BI, Git, Figma, MySQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
 ## 🚀 Projects
