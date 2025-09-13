@@ -19,7 +19,7 @@
 - Eco Forecast Website UI/UX Design
 
 ## 📊 GitHub Stats
-![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethrakrishnan&show_icons=true&theme=radical)
+![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethra0906&show_icons=true&theme=radical&count_private=true&cache_seconds=1000)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
