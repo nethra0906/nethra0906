@@ -22,5 +22,6 @@
 ![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethrakrishnan&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
-- **Email:** nethra.krish0906@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nethrakrishnan/) 
+[![Mail](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:nethra.krish0906@gmail.com)
+
