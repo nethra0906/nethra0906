@@ -2,7 +2,7 @@
 
 🎓 Pre Final Year BTech CSE (Data Science) @ VIT-Vellore  
 
-💻 Skilled in Python, Java, C, C++, JavaScript, React.js, Data Science, Data Analytics, MYSQL  
+💻 Skilled in Python, Java, C, C++, JavaScript, React.js, Data Science, Data Analytics, MySQL  
 
 🎨 Enthusiastic about Graphic Design & UI/UX & Guitar
 
