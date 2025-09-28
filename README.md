@@ -4,7 +4,7 @@
 
 💻 Skilled in Python, Java, C, C++, JavaScript, React.js, Data Science, Data Analytics, MySQL  
 
-🎨 Enthusiastic about Graphic Design & UI/UX & Guitar
+🎨 Enthusiastic about Graphic Design, UI/UX & Guitar
 
 ## ⚙️ Languages & Technologies 
 - **Languages:** Python, Java, C++, C, JavaScript, SQL, HTML & CSS
