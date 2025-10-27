@@ -14,9 +14,10 @@
 
 
 ## 🚀 Projects
+- Air Traffic Controller
+- LLM Policy Retriever
 - Hospital Management Website
 - Regional Sales Analysis 
-- Eco Forecast Website UI/UX Design
 
 ## 📊 GitHub Stats
 ![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethra0906&show_icons=true&theme=radical&count_private=true&cache_seconds=1000)
