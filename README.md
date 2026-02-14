@@ -13,7 +13,7 @@
 - **Tools:** Power BI, Git, AWS, Docker, MySQL, MS Excel, Figma
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Streamlit
 - **Core:** DSA, Object Oriented Programming, Computer Networks, Operating Systems, DBMS
-- 
+
 
 ## 🚀 Projects
 - FortiScan - AI Code Scanner & Enhancer
