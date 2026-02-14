@@ -23,11 +23,11 @@
 
 
 ## 📊 GitHub Stats
-![Nethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethra0906&show_icons=true&theme=radical)
+![Nethra's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nethra0906&show_icons=true&theme=radical)
 
 
 ## 💻 Top Languages
-![Nethra's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical)
+![Nethra's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical)
 
 
 ## 🔥 Streak
