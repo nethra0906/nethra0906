@@ -31,6 +31,9 @@
 ## 📈 Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=tokyonight)
 
+## ⏰ Productivity Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nethra0906&theme=tokyonight&utcOffset=5.5)
+
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
