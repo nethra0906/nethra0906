@@ -31,8 +31,7 @@
 
 
 ## 🔥 Streak
-![Nethra's GitHub Streak](https://streak-stats.demolab.com?user=nethra0906&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nethra0906&theme=radical)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
