@@ -23,15 +23,13 @@
 
 
 ## 📊 GitHub Stats
-![Nethra's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nethra0906&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=nethra0906&show_icons=true&theme=radical)
 
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=nethra0906&theme=radical)
 
 ## 💻 Top Languages
-![Nethra's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical)
-
-
-## 📈 Contribution Graph
-[![Nethra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/nethra0906)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
