@@ -30,8 +30,8 @@
 ![Nethra's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical)
 
 
-## 📈 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&theme=github-dark)
+## 📈 Contribution Graph
+[![Nethra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/nethra0906)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
