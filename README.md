@@ -32,7 +32,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=radical)
 
 ## ⏰ Productivity Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nethra0906&theme=radicalt&utcOffset=5.5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nethra0906&theme=radical&utcOffset=5.5)
 
 
 ## 📫 Connect with Me
