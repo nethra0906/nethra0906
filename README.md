@@ -32,7 +32,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=radical)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=nethra0906)
+![GitHub Streak](https://streak-stats.demolab.com?user=nethra0906&theme=radical)
 
 
 ## 📫 Connect with Me
