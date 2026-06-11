@@ -31,6 +31,9 @@
 ## 📈 Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=radical)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=nethra0906)
+
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Nethra Krishnan](https://www.linkedin.com/in/nethrakrishnan/) 
