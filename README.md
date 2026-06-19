@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,2&height=200&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=68&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,24&height=200&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=68&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=#E8417A&center=true&vCenter=true&width=700&lines=Final+Year+BTech+CSE+%40+VIT+Vellore;Building+ML+Systems+%26+Full+Stack+Apps+;Passionate+about+UI%2FUX+%26+Graphic+Design;Guitar+Player+%7C+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=FF6B35&center=true&vCenter=true&width=700&lines=Final+Year+BTech+CSE+%40+VIT+Vellore;Building+ML+Systems+%26+Full+Stack+Apps+;Passionate+about+UI%2FUX+%26+Graphic+Design;Guitar+Player+%7C+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,7 +31,7 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nethra0906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nethra0906&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -216,20 +216,20 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nethra0906&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F7&fire=6EE7F7&currStreakLabel=6EE7F7" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nethra0906&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35" width="40%"/>
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=radical)
 
 </div>
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7F7&line=6EE7F7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -249,5 +249,4 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,2&height=150&section=footer&reversal=true&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,24&height=150&section=footer&reversal=true&animation=fadeIn" width="100%"/>
