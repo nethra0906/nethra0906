@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=68&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,2&height=200&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=68&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -249,6 +249,5 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=150&section=footer&reversal=true&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,2&height=150&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 
