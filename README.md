@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=220&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=220&section=header&text=Nethra%20Krishnan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20ML%20%7C%20Full%20Stack&descAlignY=60&descSize=20" width="100%"/>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=FF6B35&center=true&vCenter=true&width=700&lines=Final+Year+BTech+CSE+%40+VIT+Vellore;Building+ML+Systems+%26+Full+Stack+Apps+;Passionate+about+UI%2FUX+%26+Graphic+Design;Guitar+Player+%7C+Lifelong+Learner)](https://git.io/typing-svg)
