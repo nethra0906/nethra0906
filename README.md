@@ -204,7 +204,7 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 |  |  |
 |:---|---:|
-| <h3>🎖️ &nbsp; Indian Patent Filed</h3> **Real-time Security Analysis Platform for AI-generated Code** <br/><br/> <sub>Using static analysis and ML with adaptive remediation to detect and fix vulnerabilities in AI-generated source code in real time.</sub> <br/><br/> ![Static Analysis](https://img.shields.io/badge/Static_Analysis-0D9488?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square) ![AI Security](https://img.shields.io/badge/AI_Security-EF4444?style=flat-square) ![Adaptive ML](https://img.shields.io/badge/Adaptive_Remediation-F59E0B?style=flat-square) | ![Filed](https://img.shields.io/badge/🇮🇳_STATUS-FILED-F59E0B?style=for-the-badge) |
+| <h3>🎖️ &nbsp; Indian Patent Published</h3> **Real-time Security Analysis Platform for AI-generated Code** <br/><br/> <sub>Using static analysis and ML with adaptive remediation to detect and fix vulnerabilities in AI-generated source code in real time.</sub> <br/><br/> ![Static Analysis](https://img.shields.io/badge/Static_Analysis-0D9488?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square) ![AI Security](https://img.shields.io/badge/AI_Security-EF4444?style=flat-square) ![Adaptive ML](https://img.shields.io/badge/Adaptive_Remediation-F59E0B?style=flat-square) | ![Published](https://img.shields.io/badge/🇮🇳_STATUS-PUBLISHED-F59E0B?style=for-the-badge) |
 
 [![Patent](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge)](.)
 
