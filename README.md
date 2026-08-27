@@ -31,7 +31,7 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nethra0906&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nethra0906&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -216,8 +216,8 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nethra0906&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethra0906&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35" width="40%"/>
+<img src="https://streak-stats.demolab.com/?user=nethra0906&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=nethra0906&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35" width="40%"/>
 
 </div>
 
@@ -225,13 +225,6 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethra0906&theme=radical)
 
-</div>
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethra0906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -250,3 +243,4 @@ I'm a **CSE - Data Science student** at VIT Vellore with a love for building thi
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=150&section=footer&animation=fadeIn" width="100%"/>
+​​
